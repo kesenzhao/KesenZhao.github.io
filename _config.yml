@@ -83,7 +83,7 @@ author:
   name             : "Kesen Zhao (赵克森)"
   avatar           : "kesen.png"
   bio              : "PhD student @ UdeM"
-  location         : "Location"
+  location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ScEYTusAAAAJ&hl=zh-CN"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
